@@ -36,11 +36,11 @@
 
 #### Рекомендации по [src/app.py](src/app.py)
 - Использовать единый стиль импорта в коде  
-в файле [src/app.py](src/app.py#L3) строка 3, библиотека клиента Elasticsearch импортируется как
+в файле [src/app.py](src/app.py#L2) строка 2, библиотека клиента Elasticsearch импортируется как
 ```text
 import elasticsearch as ES
 ```
-в файле [src/film_loader.py](src/film_loader.py) импортируется как
+в файле [src/film_loader.py](src/film_loader.py#L4) импортируется как
 ```
 from elasticsearch import Elasticsearch
 ```
