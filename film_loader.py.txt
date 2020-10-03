@@ -1,0 +1,18 @@
+************* Module film_loader
+src/film_loader.py:42:0: C0301: Line too long (101/100) (line-too-long)
+src/film_loader.py:58:0: C0301: Line too long (104/100) (line-too-long)
+src/film_loader.py:66:0: C0301: Line too long (102/100) (line-too-long)
+src/film_loader.py:67:0: C0301: Line too long (101/100) (line-too-long)
+src/film_loader.py:99:0: C0301: Line too long (110/100) (line-too-long)
+src/film_loader.py:100:0: C0301: Line too long (115/100) (line-too-long)
+src/film_loader.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/film_loader.py:4:0: E0401: Unable to import 'elasticsearch' (import-error)
+src/film_loader.py:5:0: E0401: Unable to import 'elasticsearch.helpers' (import-error)
+src/film_loader.py:47:0: R0914: Too many local variables (17/15) (too-many-locals)
+src/film_loader.py:94:19: C0201: Consider iterating the dictionary directly instead of calling .keys() (consider-iterating-dictionary)
+src/film_loader.py:102:8: C0415: Import outside toplevel (pprint) (import-outside-toplevel)
+src/film_loader.py:115:4: C0103: Variable name "es" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 4.47/10
+

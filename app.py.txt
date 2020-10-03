@@ -1,0 +1,12 @@
+************* Module app
+src/app.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/app.py:1:0: E0401: Unable to import 'flask' (import-error)
+src/app.py:2:0: E0401: Unable to import 'elasticsearch' (import-error)
+src/app.py:4:0: E0401: Unable to import 'validate' (import-error)
+src/app.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+src/app.py:14:0: C0116: Missing function or method docstring (missing-function-docstring)
+src/app.py:68:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 4.06/10 (previous run: 4.06/10, +0.00)
+
